@@ -1,3 +1,5 @@
 # magnum-opus
 
-Project
+Project for Simon
+
+Team members: just Simon
